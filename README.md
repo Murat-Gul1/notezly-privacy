@@ -30,8 +30,8 @@ Notezly does not knowingly collect personal data from children under the age of 
 
 ## Contact
 For questions about this privacy policy:
-- **Email:** [Enter your email address here]
-- **GitHub:** [Enter your GitHub username here]
+- **Email:** [murat.coddev@gmail.com]
+- **GitHub:** [Murat-Gul1]
 
 ## Changes
 This privacy policy may be updated from time to time. Users will be notified of any significant changes.
