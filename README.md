@@ -3,7 +3,7 @@ Notezly App Privacy Policy
 
 #Notezly Privacy Policy
 
-**Last Updated:** [Today's Date]
+**Last Updated:** [14.08.2025]
 
 ## Overview
 Notezly is a mobile app designed to meet users' note-taking and drawing needs. This privacy policy explains our app's data collection and usage practices.
