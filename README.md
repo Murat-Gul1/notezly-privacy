@@ -1,40 +1,59 @@
-# notezly-privacy
-Notezly App Privacy Policy
+# Notezly App Privacy Policy
 
-#Notezly Privacy Policy
-
-**Last Updated:** [14.08.2025]
+**Last Updated: 18.08.2025**
 
 ## Overview
-Notezly is a mobile app designed to meet users' note-taking and drawing needs. This privacy policy explains our app's data collection and usage practices.
+Notezly is a mobile app designed to meet users' note-taking and drawing needs. This privacy policy explains our app's data collection and usage practices, especially regarding Google Drive integration.  
+
+---
 
 ## Data Collection
-Notezly respects user privacy and operates with a minimum data collection principle:
+Notezly follows the principle of minimum data collection:  
 
-- **Personal Data:** No personal data is collected
-- **Usage Data:** App usage statistics are not collected
-- **Device Information:** Device information is not collected
+- **Personal Data:**  
+  - We only access your **Google account email address** when you sign in with Google, required for Google Drive backup and restore.  
+- **Usage Data:**  
+  - We do not collect app usage statistics.  
+- **Device Information:**  
+  - We do not collect device-specific information.  
+
+---
 
 ## Data Storage
-- All drawings, notes, and data are stored **only on your device**
-- Your data is not stored on **cloud servers**
-- **No internet connection** required
+- **On Device:**  
+  - All drawings and notes are stored locally on your device.  
+- **On Google Drive:**  
+  - If you enable backup, your data is stored in a private **application-specific folder** in your Google Drive.  
+  - This data is **not visible to others** and only the Notezly app can access it.  
+- **No Other Servers:**  
+  - We do not use third-party servers.  
+
+---
 
 ## Data Sharing
-- Your data is not shared with **third parties**
-- No data transfer outside of the **Google Play Store**
-- No data is shared with **advertising companies**
+- We **do not share** your data with third parties.  
+- No data is sold or transferred to advertisers.  
+- Data is only shared with Google Drive **as part of the backup/restore feature**.  
 
-## Children's Privacy
-Notezly does not knowingly collect personal data from children under the age of 13. If you believe that data has been inadvertently collected from a child under the age of 13, please contact us.
+---
+
+## Children’s Privacy
+Notezly does not knowingly collect personal data from children under the age of 13. If you believe that data has been inadvertently collected from a child under 13, please contact us.  
+
+---
 
 ## Contact
-For questions about this privacy policy:
-- **Email:** [murat.coddev@gmail.com]
-- **GitHub:** [Murat-Gul1]
+For questions about this privacy policy:  
+
+- **Email:** murat.coddev@gmail.com  
+- **GitHub:** Murat-Gul1  
+
+---
 
 ## Changes
-This privacy policy may be updated from time to time. Users will be notified of any significant changes.
+This privacy policy may be updated from time to time. Users will be notified of significant changes within the app or through the app store listing.  
+
+---
 
 ## Consent
-By using this app, you agree to this privacy policy.
+By using this app, you agree to this privacy policy and the use of Google Drive for backup and restore features.  
