@@ -11,7 +11,7 @@ Notezly is a mobile app designed to meet users' note-taking and drawing needs. T
 Notezly follows the principle of minimum data collection:  
 
 - **Personal Data:**  
-  - We only access your **Google account email address** when you sign in with Google, required for Google Drive backup and restore.  
+  - We obtain an OAuth token to access your Google Drive for backup/restore. We do not access or store your email address. 
 - **Usage Data:**  
   - We do not collect app usage statistics.  
 - **Device Information:**  
